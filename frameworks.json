@@ -1,0 +1,5 @@
+{
+    "WebKit.framework": 1,
+    "AppTrackingTransparency.framework": 2,
+    "StoreKit.framework": 1
+}
